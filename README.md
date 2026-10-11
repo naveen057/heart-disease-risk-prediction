@@ -189,7 +189,7 @@ The web interface will be available if the server starts successfully and the re
 
 🔗 GitHub: [@naveen057](https://github.com/naveen057)
 
-💻 Project Repository: [Heart Disease Prediction Web App](https://github.com/naveen057/Heart-Disease-Prediction-Web-App)
+💻 Project Repository: [Heart Disease Prediction Web App](https://github.com/naveen057/heart-disease-risk-prediction)
 
 ---
 
